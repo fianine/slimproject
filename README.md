@@ -1,1 +1,1 @@
-# slimproject
+# Slim Micro Framework
